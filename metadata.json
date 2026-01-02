@@ -1,0 +1,7 @@
+{
+  "name": "PhysioSync Pro",
+  "description": "An advanced physiotherapist appointment management system that integrates bookings from WhatsApp, SMS, and Web using AI-driven parsing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
